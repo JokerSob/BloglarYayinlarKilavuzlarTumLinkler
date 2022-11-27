@@ -25,7 +25,7 @@
 
 Merhaba, eğer ki şuan buradaysanız, bir arayış içindesiniz ve belki şans eseri, belki de bir yönlendirme sayesinde burayı bulmuş olabilirsiniz. Burada olduğunuza göre, kendinizi siber güvenlik alanında geliştirmek istiyorsunuz yada gelişiminiz için daha da fazla kaynak arayışı içindesiniz demektir.
 
-Kendi gelişimim için oluşturduğum yer imlerini uzun bir zamandır düzenlemediğim için karman çorman bir hâl almıştı ve bu karışıklığı düzenlerken bir sürü gizli hazine olduğunu farkettim (tabi aralarında ölü linklerde vardı...çok üzücü :(). Elimde kalan ve hala daha çalışan bu linkleri tek bir yerde toplamak istedim.
+Kendi gelişimim için oluşturduğum yer imlerini uzun bir zamandır düzenlemediğim için karman çorman bir hâl almıştı ve bu karışıklığı düzenlerken bir sürü gizli hazine olduğunu farkettim (tabi aralarında ölü linklerde vardı...çok üzücü :pensive:). Elimde kalan ve hala daha çalışan bu linkleri tek bir yerde toplamak istedim.
 
 İşte artık sizlerin de ulaşım sağladığınız bu linkler içinde neler olduğunu sorduğunuzu duyar gibiyim. O zaman kısaca özetleyeyim;
 - ##### Yazılım / Programlama / Database,
