@@ -33,7 +33,7 @@ Kendi gelişimim için oluşturduğum yer imlerini uzun bir zamandır düzenleme
 - ##### Yabancı Dil (İngilizce / Almanca)
 Şuan için yazmayı unuttuğum birkaç konu başlığı daha olabilir belki.
 
-Şunu öncelikle söylemeliyim ki, siz de benim gibi kendi kendinizi geliştirecekseniz gerçekten zorlu bir yolculuk sizi bekliyor. Her işte olduğu gibi, bu yolculukta da karşınıza bir sürü engel çıkacak, belki yılma noktasına kadar geleceksiniz. Gerçekten bir şeyler öğrenmek ve gelişmek istiyorsanız hiçbir zaman yılmayın, karşınıza çıkan engelleri aşmanın bir yolunu bulun ve her zaman araştırıp, okuyun. Hiç bir zaman soru sormaktan, başkalarından yardım istemekten çekinmeyin. Unutmayın ki öğrenmek ayıp değil, öğrenmemek ayıptır. Bir de, azimle ... dağ mı, duvar mı, taş mı bişey deler bunu da aklınızdan çıkarmayın. :)
+Şunu öncelikle söylemeliyim ki, siz de benim gibi kendi kendinizi geliştirecekseniz gerçekten zorlu bir yolculuk sizi bekliyor. Her işte olduğu gibi, bu yolculukta da karşınıza bir sürü engel çıkacak, belki yılma noktasına kadar geleceksiniz. Gerçekten bir şeyler öğrenmek ve gelişmek istiyorsanız hiçbir zaman yılmayın, karşınıza çıkan engelleri aşmanın bir yolunu bulun ve her zaman araştırıp, okuyun. Hiç bir zaman soru sormaktan, başkalarından yardım istemekten çekinmeyin. Unutmayın ki öğrenmek ayıp değil, öğrenmemek ayıptır. Bir de, azimle ... dağ mı, duvar mı, taş mı bişey deler bunu da aklınızdan çıkarmayın. :simple_smile:
 
 Kısacası ben kendi kendimi geliştirip öğrenebildiysem, bunu herkes yapabilir. [<b>*"İstek / Azim / Sabır / Hırs / Arzu"*</b>](https://www.youtube.com/watch?v=nvVhYDxJtqg&ab_channel=G.O.R.A.)
 
