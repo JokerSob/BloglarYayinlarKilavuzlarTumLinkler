@@ -73,4 +73,4 @@ Unutmadan şunuda söyleyeyim, bu liste ara sıra güncellenecektir!
 <br />
 <br />
 
-[<b> *~ JokerSob ~* </b>](https://github.com/JokerSob)# BloglarYayinlarKilavuzlarTumLinkler
+[<b> *~ JokerSob ~* </b>](https://github.com/JokerSob)
