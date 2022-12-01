@@ -1,28 +1,19 @@
 <a href="https://github.com/JokerSob"><img align="center" alt="header" width="700" src="JokerSob.png"></a>
 
-<!--          LİNKLERİN 1. SATIR ALANI          -->
-<center><table class="center">
-<tr><b>   ⬇️⬇️⬇️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  İletişim Linkleri  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️⬇️⬇️   </b></tr>
-<tr>
-<td><a href="https://www.youtube.com/channel/UCyXFujTOqgRz9oqU8V-hXww"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-<td><a href="https://www.instagram.com/ouzpinkman"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<td><a href="https://twitter.com/SyntaxError_69"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-</tr>
+<!--          LİNKLER ALANI          -->
+### <b>     İletişim Linkleri :     </b></tr>
 
-<!--          LİNKLERİN 2. SATIR ALANI          -->
-<tr>
-<td><a href="https://join.skype.com/invite/j2ho1vVuTHv7"><img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"></a>
-<td><a href="https://discord.com/users/1045121857143177317"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-<td><a href="https://www.tiktok.com/@cy83rp5ych0"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
-</tr>
-
-<!--          LİNKLERİN 3. SATIR ALANI          -->
-<tr>
-<td><a href="https://www.linkedin.com/in/o%C4%9Fuz-%C3%A7elikutku351912/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<td><a href="https://github.com/OuzCelikutku"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<td><a href="mailto:o.celikutku@outlook.com"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-</tr>
-</table></center>
+<p align="left">
+<a target="blank" href="https://www.youtube.com/channel/UCyXFujTOqgRz9oqU8V-hXww"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a target="blank" href="https://www.instagram.com/ouzpinkman"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a target="blank" href="https://twitter.com/SyntaxError_69"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<a target="blank" href="https://join.skype.com/invite/j2ho1vVuTHv7"><img align="center" src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" /></a>
+<a target="blank" href="https://discord.com/users/1045121857143177317"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a target="blank" href="https://www.tiktok.com/@cy83rp5ych0"><img align="center" src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
+<a target="blank" href="https://www.linkedin.com/in/o%C4%9Fuz-%C3%A7elikutku351912/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target="blank"  href="https://github.com/OuzCelikutku"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a target="blank" href="mailto:o.celikutku@outlook.com"><img align="center" src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+</p>
 
 <br />
 
